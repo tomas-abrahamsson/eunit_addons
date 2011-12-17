@@ -54,7 +54,7 @@
 %%%     <li>They provide readable test names (same as the function
 %%%         name) to the eunit printout.</li>
 %%%     <li>They make it easy to set timeouts for test cases.</li>
-%%%     <li>The tests gets isolated from each other.</li>
+%%%     <li>The tests get isolated from each other.</li>
 %%% </ul>
 %%%
 %%% NOTE: Use one of the ?WITH_SETUP macros with fewer parameters (if

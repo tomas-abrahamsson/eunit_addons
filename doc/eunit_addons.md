@@ -39,7 +39,7 @@ name) to the eunit printout.
 
 * They make it easy to set timeouts for test cases.
 
-* The tests gets isolated from each other.
+* The tests get isolated from each other.
 
 
 
